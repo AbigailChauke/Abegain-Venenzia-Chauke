@@ -19,4 +19,5 @@ As someone who is goal-driven and detail-oriented, I am now looking to apply my 
 ## 1. Career Counselling
 ###  Evidence
 I attended the Career Counselling Session in 2025 focused on ICT career paths. It provided insight into roles like Network Analyst, Security Specialist, and Infrastructure Support. We were ask to come up with a problem that we also need to provide a solution ourselves for it as a group.
-[Here is the brief of our project](CV.pdf)
+[Here is the brief of our project](project 3 term 2.pdf)
+
