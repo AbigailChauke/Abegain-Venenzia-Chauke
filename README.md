@@ -93,8 +93,35 @@ CV was submitted for feedback in March 2025.
 - **R:** I now have a job-ready CV that has already helped me apply for internships
 
 
+##  6. Business Communication
+###  Evidence
+I completed the Business Communication module with a full completion status, scoring 100%. The course covered key topics such as non-verbal communication, formal language, and professional email tone.
+![BUSINESS COMMUNICATION SUBMISSION RESULTS](BusinesssC.png)
+
+
+###  Reflection (STAR)
+- **S:** I needed to strengthen my communication skills for professional and academic environments.
+- **T:** The goal was to complete the Business Communication online module and demonstrate understanding of effective workplace communication.
+- **A:** I studied each topic, focusing on email etiquette, tone, and verbal and non-verbal communication principles. 
+- **R:** I successfully completed the module with 100% completion, improving my ability to write and communicate clearly in a professional setting.
 
 
 
+##  7. Interview Skills
+###  Evidence
+I managed to complete the Interview Skills module with 100% completion and a perfect score. The course covered topics like the CAR method, company research, and answering interview questions effectively.
+![Interview Skills RESULTS](InterviewS.png)
 
+
+###  Reflection (STAR)
+- **S:** I wanted to build confidence and improve my performance in job interviews.
+- **T:** I had to complete the Interview Skills module to learn structured methods for responding to interview questions.
+- **A:** I practiced the CAR (Context, Action, Result) technique and learned how to present my strengths and weaknesses professionally.
+- **R:** I achieved 100% in the module, gained valuable interview preparation skills, and learned how to communicate my experiences effectively during interviews.
+
+
+
+##  8. Mock Interview Video
+###  Evidence
+We were required to do a Mock Interview video to show the skill out of what we have learned on the Interview Skills Module. I made a video answering the questions that I picked to answer under seven types of interview question.
 
