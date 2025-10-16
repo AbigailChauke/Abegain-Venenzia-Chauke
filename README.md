@@ -124,4 +124,5 @@ I managed to complete the Interview Skills module with 100% completion and a per
 ##  8. Mock Interview Video
 ###  Evidence
 We were required to do a Mock Interview video to show the skill out of what we have learned on the Interview Skills Module. I made a video answering the questions that I picked to answer under seven types of interview question.
+![Mock Interview](IMG_9446.MOV)
 
